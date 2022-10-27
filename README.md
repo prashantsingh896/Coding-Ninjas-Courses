@@ -1,2 +1,4 @@
 # Coding-Ninjas-Courses
-Project to demonstrate API fetch and Data display using Jquery
+Project uses API of Coding Ninjas to fetch and display their courses
+Jquery is used for handing event and updating page
+Bootstrap is used for display 
